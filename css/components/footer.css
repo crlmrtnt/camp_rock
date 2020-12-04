@@ -1,0 +1,25 @@
+
+
+
+footer{ 
+	width:100%;
+	margin:auto;
+	display:flex;
+	align-content: center;
+}
+
+.footer-content{
+	padding-left:200px;
+	display: flex;
+
+}
+
+.icons{ 
+	color:#000;
+	display:flex;
+	margin-top: 10px;
+}
+
+.icons li{ 
+	padding: 0 20 0 0px;
+}

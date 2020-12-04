@@ -1,0 +1,9 @@
+
+
+
+.program-box{
+	display: flex;
+	align-items: baseline;
+	padding: 8px; 
+}
+

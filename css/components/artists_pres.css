@@ -1,0 +1,115 @@
+
+
+.artist_pres{
+	margin:auto;
+	width: 600px;
+	display: flex;
+	justify-content: wrap;
+	flex-wrap: wrap;
+}
+
+.artist_pres img{
+	width: 200px;
+}
+
+.artist_pres li{
+	text-align: justify; 
+}
+
+#artist-1{
+	background-image: url(../../images/artist1.jpg);
+	background-size: cover;
+	width: 200px;
+	height:200px;
+}
+
+#artist-1:hover{
+	background-image: linear-gradient(45deg, rgba(116, 58, 213, 0.5), rgba(213, 146, 58, 0.5)), url(../../images/artist1.jpg);
+}
+
+#artist-2{
+	background-image: url(../../images/artist2.jpg);
+	background-size: cover;
+	width: 200px;
+	height:200px;
+}
+
+#artist-2:hover{
+	background-image: linear-gradient(45deg, rgba(116, 58, 213, 0.5), rgba(213, 146, 58, 0.5)), url(../../images/artist2.jpg);
+}
+
+#artist-3{
+	background-image: url(../../images/artist3.jpg);
+	background-size: cover;
+	width: 200px;
+	height:200px;
+}
+
+#artist-3:hover{
+	background-image: linear-gradient(45deg, rgba(116, 58, 213, 0.5), rgba(213, 146, 58, 0.5)), url(../../images/artist3.jpg);
+}
+
+#artist-4{
+	background-image: url(../../images/artist4.jpg);
+	background-size: cover;
+	width: 200px;
+	height:200px;
+}
+#artist-4:hover{
+	background-image: linear-gradient(45deg, rgba(116, 58, 213, 0.5), rgba(213, 146, 58, 0.5)), url(../../images/artist4.jpg);
+}
+
+#artist-5{
+	background-image: url(../../images/artist5.jpg);
+	background-size: cover;
+	width: 200px;
+	height:200px;
+}
+#artist-5:hover{
+	background-image: linear-gradient(45deg, rgba(116, 58, 213, 0.5), rgba(213, 146, 58, 0.5)), url(../../images/artist5.jpg);
+}
+
+#artist-6{
+	background-image: url(../../images/artist6.jpg);
+	background-size: cover;
+	width: 200px;
+	height:200px;
+}
+
+#artist-6:hover{
+	background-image: linear-gradient(45deg, rgba(116, 58, 213, 0.5), rgba(213, 146, 58, 0.5)), url(../../images/artist6.jpg);
+}
+
+#artist-7{
+	background-image: url(../../images/artist7.jpg);
+	background-size: cover;
+	width: 200px;
+	height:200px;
+}
+
+#artist-7:hover{
+	background-image: linear-gradient(45deg, rgba(116, 58, 213, 0.5), rgba(213, 146, 58, 0.5)), url(../../images/artist7.jpg);
+}
+
+#artist-8{
+	background-image: url(../../images/artist8.jpg);
+	background-size: cover;
+	width: 200px;
+	height:200px;
+}
+
+#artist-8:hover{
+	background-image: linear-gradient(45deg, rgba(116, 58, 213, 0.5), rgba(213, 146, 58, 0.5)), url(../../images/artist8.jpg);
+}
+
+#artist-9{
+	background-image: url(../../images/artist9.jpg);
+	background-size: cover;
+	width: 200px;
+	height:200px;
+}
+
+#artist-9:hover{
+	background-image: linear-gradient(45deg, rgba(116, 58, 213, 0.5), rgba(213, 146, 58, 0.5)), url(../../images/artist9.jpg);
+}
+

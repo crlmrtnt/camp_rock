@@ -1,0 +1,43 @@
+
+
+
+.tickets {
+	margin-bottom:50px;
+}
+
+
+.tickets-box {
+	margin: 50px 25px 50px 25px;
+	padding:20px 0px 20px 0px;
+	size: 50px;
+	background-size: cover;
+	background-position: center;
+	height: 280px;
+	width: 200px;
+}
+
+.tickets-box-image1 {
+	background-image: linear-gradient(45deg, rgba(116, 58, 213, 0.5), rgba(213, 146, 58, 0.5)), url(../../images/image1.png);
+
+}
+
+.tickets-box-image2 {
+	background-image: linear-gradient(45deg, rgba(116, 58, 213, 0.5), rgba(213, 146, 58, 0.5)), url(../../images/image2.jpg);
+}
+
+.tickets-box-image3 {
+	background-image: linear-gradient(45deg, rgba(116, 58, 213, 0.5), rgba(213, 146, 58, 0.5)), url(../../images/image3.jpg);
+}
+
+.textebas {
+	text-align: center;
+}
+
+.button {
+	padding: 10px;
+}
+
+.price {
+	margin-top: 50px;
+	font-size: 28pt;
+}

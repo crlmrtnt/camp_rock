@@ -1,0 +1,95 @@
+/*Import Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url("https://use.typekit.net/lgn6iyn.css");
+
+
+
+/*Import Components*/
+
+@import url('components/nav.css');
+@import url('components/banner.css');
+@import url('components/tickets-box.css');
+@import url('components/program.css');
+@import url('components/program-box.css');
+@import url('components/artists_pres.css');
+@import url('components/footer.css');
+@import url('components/typeform.css');
+@import url('components/btn.css');
+@import url('components/container-row.css');
+@import url('components/container-column.css');
+
+
+
+body{	
+  font-family:'Montserrat', sans serif;
+  background:#000;
+  font-size: 14px;
+}
+
+.container{ 
+  width:100%;
+  margin:auto;
+}
+ 
+
+/*Font*/
+
+h1{
+font-family: rig-shaded-bold-face,sans-serif;
+font-size: 65px;
+font-weight: 700;
+font-style: normal;
+background: -webkit-linear-gradient(0deg, rgba(185,10,10,1) 0%, rgba(130,47,126,1) 19%, rgba(74,79,218,1) 67%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+h2{
+	font-size: 22px;
+	color:#fff;
+	text-transform: uppercase;
+	text-align:center;
+	padding-top: 65px; 
+
+}
+
+
+h3{
+	font-size: 25px;
+	color:#fff;
+	opacity: 0.8;
+	font-weight:500;
+	text-transform: uppercase;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+
+
+h4{
+	color:#fff;
+	font-size: 16px;
+	font-weight:normal;
+	text-transform: uppercase;
+	text-decoration: underline;
+} 
+
+h4:hover {
+	font-size: 25px; 
+}
+
+
+p{
+	font-size: 12px;
+	color:#fff;
+	opacity: 0.8;
+	font-weight:100;
+	color:#fff;
+}
+
+
+
+
